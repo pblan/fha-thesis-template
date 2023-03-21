@@ -1,0 +1,64 @@
+\documentclass[]{thesis}
+% \documentclass[showframe]{thesis}
+
+\usepackage[backend=biber]{biblatex}
+
+\addbibresource{example.bib}
+
+\author{Manu Musterperson}
+\studentid{314159}
+\department{Fachbereich Medizintechnik und Technomathematik}
+\degreeProgram{Angewandte Mathematik und Informatik}
+\title{Mustertitel: Eine Beispielarbeit über etwas}
+\date{\today}
+\location{Aachen}
+\supervisors{Prof. Dr. rer. nat. Ernie Sesam}{Bert Straße, M. Sc.}
+
+\begin{document}
+
+{
+\frontmatter
+% Title page
+\maketitle
+
+% Declaration of authorship
+\makedeclaration
+
+% Abstract
+\begin{abstract}
+    \blindtext
+\end{abstract}
+
+% Acknowledgements
+\begin{acknowledgements}
+    \blindtext
+\end{acknowledgements}
+
+% Table of contents
+{
+\tableofcontents
+}
+}
+
+{
+\mainmatter
+% Contents
+\include{includes/01_introduction}
+\include{includes/02_background}
+\include{includes/03_method}
+\include{includes/04_results}
+\include{includes/05_discussion}
+}
+
+{
+\backmatter
+% Bibliography
+\nocite{*} % cite all entries
+\printbibliography[heading=bibintoc]
+}
+
+\appendix
+\include{includes/A_notation}
+\include{includes/B_formulas}
+
+\end{document}

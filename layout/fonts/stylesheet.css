@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'ClanOT-News';
+    src: url('ClanOT-News.eot');
+    src: local('ClanOT-News'),
+        url('ClanOT-News.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-News.woff2') format('woff2'),
+        url('ClanOT-News.woff') format('woff'),
+        url('ClanOT-News.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-NarrowUltra';
+    src: url('ClanOT-NarrowUltra.eot');
+    src: local('ClanOT-NarrowUltra'),
+        url('ClanOT-NarrowUltra.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-NarrowUltra.woff2') format('woff2'),
+        url('ClanOT-NarrowUltra.woff') format('woff'),
+        url('ClanOT-NarrowUltra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT';
+    src: url('ClanOT-Thin.eot');
+    src: local('ClanOT-Thin'),
+        url('ClanOT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-Thin.woff2') format('woff2'),
+        url('ClanOT-Thin.woff') format('woff'),
+        url('ClanOT-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT';
+    src: url('ClanOT-Bold.eot');
+    src: local('ClanOT-Bold'),
+        url('ClanOT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-Bold.woff2') format('woff2'),
+        url('ClanOT-Bold.woff') format('woff'),
+        url('ClanOT-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-NarrowMedium';
+    src: url('ClanOT-NarrowMedium.eot');
+    src: local('ClanOT-NarrowMedium'),
+        url('ClanOT-NarrowMedium.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-NarrowMedium.woff2') format('woff2'),
+        url('ClanOT-NarrowMedium.woff') format('woff'),
+        url('ClanOT-NarrowMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-NarrowThin';
+    src: url('ClanOT-NarrowThin.eot');
+    src: local('ClanOT-NarrowThin'),
+        url('ClanOT-NarrowThin.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-NarrowThin.woff2') format('woff2'),
+        url('ClanOT-NarrowThin.woff') format('woff'),
+        url('ClanOT-NarrowThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-Book';
+    src: url('ClanOT-Book.eot');
+    src: local('ClanOT-Book'),
+        url('ClanOT-Book.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-Book.woff2') format('woff2'),
+        url('ClanOT-Book.woff') format('woff'),
+        url('ClanOT-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT';
+    src: url('ClanOT-Medium.eot');
+    src: local('ClanOT-Medium'),
+        url('ClanOT-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-Medium.woff2') format('woff2'),
+        url('ClanOT-Medium.woff') format('woff'),
+        url('ClanOT-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-Ultra';
+    src: url('ClanOT-Ultra.eot');
+    src: local('ClanOT-Ultra'),
+        url('ClanOT-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-Ultra.woff2') format('woff2'),
+        url('ClanOT-Ultra.woff') format('woff'),
+        url('ClanOT-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT';
+    src: url('ClanOT-Black.eot');
+    src: local('ClanOT-Black'),
+        url('ClanOT-Black.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-Black.woff2') format('woff2'),
+        url('ClanOT-Black.woff') format('woff'),
+        url('ClanOT-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-NarrowNews';
+    src: url('ClanOT-NarrowNews.eot');
+    src: local('ClanOT-NarrowNews'),
+        url('ClanOT-NarrowNews.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-NarrowNews.woff2') format('woff2'),
+        url('ClanOT-NarrowNews.woff') format('woff'),
+        url('ClanOT-NarrowNews.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-NarrowBlack';
+    src: url('ClanOT-NarrowBlack.eot');
+    src: local('ClanOT-NarrowBlack'),
+        url('ClanOT-NarrowBlack.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-NarrowBlack.woff2') format('woff2'),
+        url('ClanOT-NarrowBlack.woff') format('woff'),
+        url('ClanOT-NarrowBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-NarrowBold';
+    src: url('ClanOT-NarrowBold.eot');
+    src: local('ClanOT-NarrowBold'),
+        url('ClanOT-NarrowBold.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-NarrowBold.woff2') format('woff2'),
+        url('ClanOT-NarrowBold.woff') format('woff'),
+        url('ClanOT-NarrowBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClanOT-NarrowBook';
+    src: url('ClanOT-NarrowBook.eot');
+    src: local('ClanOT-NarrowBook'),
+        url('ClanOT-NarrowBook.eot?#iefix') format('embedded-opentype'),
+        url('ClanOT-NarrowBook.woff2') format('woff2'),
+        url('ClanOT-NarrowBook.woff') format('woff'),
+        url('ClanOT-NarrowBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
